@@ -1,0 +1,12 @@
+body {background-color: aquamarine;}
+
+section {font-size: 30px;}
+
+.title {font-size: 1.2rem;}
+
+.title-em {font-size: 1.2em;}
+.btn {background-color: blueviolet;
+        padding: .3em;}
+
+.btn-small {font-size: 2rem;}
+.btn-large {font-size: 1em;}
